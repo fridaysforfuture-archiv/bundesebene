@@ -1,0 +1,3 @@
+[submodule "strupa"]
+	path = strupa
+	url = https://github.com/bonsaibauer/strupa.git
