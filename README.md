@@ -1,2 +1,2 @@
-# bundesweit
-🗂️ Fridays for Future Archive – National Level (`bundesweit`)
+# Bundesebene
+🗂️ Fridays for Future Archive – National Level (`bundesebene`)
